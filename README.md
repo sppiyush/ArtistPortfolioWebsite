@@ -1,2 +1,2 @@
 # ArtistPortfolioWebsite
-The code files for the responsive artist portfolio project.
+I have not completed this , It will get completed by Mar 2024.
